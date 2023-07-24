@@ -23,7 +23,7 @@ The purpose of this GitHub page is for people to be able to view my work and lea
 new programming languages and improving programming skills
 
 ### 💬 Ask me about ...
-Ask me about any project, and don't hesitate to message me if you have any programming questions
+any project, and don't hesitate to message me if you have any programming question
 
 ### 👯 I’m looking to collaborate on ...
 developing projects related to programming
